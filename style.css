@@ -57,14 +57,14 @@ img{
 div img {
     width: 100%;
   }
-//alterar aqui
-  .container {
-    display: flex; 
-  } */
-  
-  .page4 {
-    /* Add some margin or padding for better spacing between divs */
-    margin: 0 10px; /* Example: 0px margin on top/bottom, 10px margin on left/right */ 
 
-  }
+.container{
+    display: flex ;
+    margin: 0 10px;
+}
+
+.page4{
+    margin: 0 10px;
+   }
+  
   
