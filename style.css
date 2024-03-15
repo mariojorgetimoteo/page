@@ -2,3 +2,20 @@ body{
     color: aliceblue;
     background: url(./photo-1542291026-7eec264c27ff.avif) no-repeat;
 }
+
+.titulo{
+    display: flex;
+    background-color: red;
+    height: 10%;
+    width: 20%;
+    text-align: center;
+    border: 2px solid green;
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  
+    
+
+}
