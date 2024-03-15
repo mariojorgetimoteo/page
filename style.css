@@ -44,3 +44,16 @@ body{
 .aqui2{
     font-family: 'Times New Roman', Times, serif;
 }
+
+.page4{
+    background-color: greenyellow;
+    width: 20%;
+}
+
+img{
+    border-radius: 50%;
+}
+
+div img {
+    width: 100%;
+  }
